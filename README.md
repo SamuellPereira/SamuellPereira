@@ -34,15 +34,27 @@ Tenho experiência com suporte técnico e sistemas empresariais, e desenvolvo pr
 ### 💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,php,html,css" alt="Linguagens de programação" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
 </p>
 
 ### ⚙️ Frameworks e desenvolvimento
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,git,github,vscode,visualstudio" alt="Frameworks e ferramentas" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat" title="Windows Presentation Foundation (WPF)" alt="WPF" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat" title="ASP.NET Core" alt="ASP.NET Core" />
 </p>
 
 ### 🗄️ Banco de dados
