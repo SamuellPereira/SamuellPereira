@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Samuel_Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Samuel Pereira" />
   </a>
   <a href="https://www.instagram.com/samue.spereira/">
-    <img src="https://img.shields.io/badge/Instagram-samue.spereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Samuel Pereira" />
+    <img src="https://img.shields.io/badge/Instagram-samue.spereira-0A66C2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Samuel Pereira" />
   </a>
 </p>
 
