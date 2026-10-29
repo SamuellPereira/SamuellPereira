@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Samuel Pereira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;Tecnologia+%7C+Automa%C3%A7%C3%A3o;Projetos+de+Software" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+SQL+Server;Desenvolvimento+%7C+Automa%C3%A7%C3%A3o" alt="Desenvolvedor de Software" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-SamuellPereira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/samue.spereira/">
-    <img src="https://img.shields.io/badge/Instagram-samue.spereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram pessoal"/>
+    <img src="https://img.shields.io/badge/Instagram-samue.spereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -17,15 +17,17 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-Sou um desenvolvedor brasileiro formado em **Análise e Desenvolvimento de Sistemas (ADS)**, interessado em tecnologia, desenvolvimento de software e automação.
+Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)** e atuo na área de Tecnologia da Informação, com experiência em suporte técnico, sistemas empresariais e desenvolvimento de aplicações.
 
-Tenho experiência com suporte técnico e sistemas empresariais, e desenvolvo projetos que conectam aplicações desktop, APIs e bancos de dados.
+Atualmente, trabalho como **Analista de TI Júnior na Nichibrás**, participando do suporte a sistemas corporativos e do desenvolvimento de soluções para otimizar processos internos.
 
-- 💻 Desenvolvimento de software e aplicações desktop
-- 🗄️ Bancos de dados e integração entre sistemas
-- ⚙️ Automação e soluções empresariais
-- 🏎️ Interesse por carros e personalização automotiva
-- 🥊 Praticante de boxe
+Tenho interesse em arquitetura de aplicações, integração entre sistemas, APIs, bancos de dados e inteligência artificial.
+
+- 💻 Desenvolvimento de aplicações desktop e sistemas web
+- ⚙️ C#/.NET, WPF e ASP.NET Core
+- 🗄️ SQL Server, consultas SQL e integração com bancos de dados
+- 🔌 APIs e automação de processos
+- 🚀 Desenvolvimento de soluções para problemas reais
 
 ---
 
@@ -53,15 +55,23 @@ Tenho experiência com suporte técnico e sistemas empresariais, e desenvolvo pr
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
   <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat" title="Windows Presentation Foundation (WPF)" alt="WPF" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat" title="WPF — Windows Presentation Foundation" alt="WPF" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat" title="ASP.NET Core" alt="ASP.NET Core" />
 </p>
 
 ### 🗄️ Banco de dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL e SQLite" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" />
+</p>
+
+### 🧰 Sistemas e ferramentas empresariais
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TOTVS-Protheus-0066CC?style=flat" title="TOTVS Protheus" alt="TOTVS Protheus" />
+  <img src="https://img.shields.io/badge/ZPL-Impress%C3%A3o_de_etiquetas-444444?style=flat" title="ZPL — Zebra Programming Language" alt="ZPL" />
 </p>
 
 ---
@@ -70,30 +80,39 @@ Tenho experiência com suporte técnico e sistemas empresariais, e desenvolvo pr
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔐 SamueAccess</h3>
-      <p>Sistema de controle de acesso e gerenciamento de visitantes.</p>
+      <p><strong>Projeto desenvolvido para a Nichibrás</strong></p>
+      <p>Aplicação para controle de acesso e gerenciamento de visitantes, com foco na organização dos registros de entrada e saída e na otimização dos processos da portaria.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
+        <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
+        <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" title="SQL Server" alt="SQL Server" />
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat" alt="WPF" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      </p>
+      <p><em>WPF · C# · SQL Server</em></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📊 NichiAPQP</h3>
-      <p>Sistema de gestão de projetos APQP, cronogramas, atividades e responsáveis.</p>
+      <p><strong>Projeto desenvolvido para a Nichibrás</strong></p>
+      <p>Sistema voltado à gestão de projetos APQP, com foco no acompanhamento de cronogramas, atividades, responsáveis e informações dos projetos.</p>
       <p>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />
+        <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
+        <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" alt=".NET" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" title="SQL Server" alt="SQL Server" />
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/WPF-512BD4?style=flat" alt="WPF" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-      </p>
+      <p><em>C# · WPF · ASP.NET Core · SQL Server</em></p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🎯 Objetivo profissional
+
+Continuar evoluindo como desenvolvedor de software, aprofundando meus conhecimentos em **C#, .NET, APIs e bancos de dados**, e contribuindo para a criação de aplicações eficientes, organizadas e escaláveis.
+
+---
+
+<p align="center">
+  💻 Desenvolvendo soluções, aprendendo continuamente e transformando ideias em software.
+</p>
