@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamuellPereira">
-    <img src="https://img.shields.io/badge/GitHub-SamuellPereira-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/samuel-s-pereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel_Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Samuel Pereira" />
   </a>
   <a href="https://www.instagram.com/samue.spereira/">
-    <img src="https://img.shields.io/badge/Instagram-samue.spereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-samue.spereira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Samuel Pereira" />
   </a>
 </p>
 
